@@ -20,7 +20,6 @@
     "url": "https://github.com/TonyDeplanque/strapi-plugin-migrations.git"
   },
   "dependencies": {
-    "@strapi/helper-plugin": "^5.0.1",
     "@strapi/utils": "^5.0.1"
   },
   "devDependencies": {
